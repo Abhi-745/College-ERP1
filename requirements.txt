@@ -10,3 +10,9 @@ django-redis
 drf-spectacular
 celery
 redis
+channels
+channels-redis
+daphne
+django-prometheus
+psycopg2-binary
+dj-database-url
