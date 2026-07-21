@@ -6,3 +6,7 @@ pytz
 sqlparse
 gunicorn
 whitenoise
+django-redis
+drf-spectacular
+celery
+redis
